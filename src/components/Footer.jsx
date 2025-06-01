@@ -1,6 +1,6 @@
 function Footer() {
   return (
-    <div class="bg-blue-100 w-full h-30 flex flex-col justify-between">
+    <div class="w-full h-30 flex flex-col justify-between">
       <div class="flex items-center justify-between">
         <div class="w-1/2">
           <p class="text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-sky-300">
