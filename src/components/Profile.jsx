@@ -4,7 +4,7 @@ function Profile() {
       className="w-[1228px] h-[300px] mx-auto
     flex items-center justify-between "
     >
-      <h1>
+      <h1 className="text-[50px] font-bold">
         Hi 🐧, <br />
         私は{" "}
         <span className="bg-gradient-to-r from-[#5398FF] to-[#925CFF] bg-clip-text text-transparent font-bold">
