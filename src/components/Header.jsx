@@ -1,6 +1,6 @@
 function Header() {
   return (
-    <div class="w-full h-14 bg-yellow-100 flex items-center justify-between">
+    <div class="w-full h-14 flex items-center justify-between">
       <div>
         <p class="text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-sky-300">
           PINGU
